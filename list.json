@@ -1,0 +1,20 @@
+{
+  "name": "Pucca List", #List name
+  "logoURI": "", #List logo uri
+  "timestamp": 1610339529000, #Update time in millisecond
+  "tokens": [
+    {
+      "chainId": 1, #ChainId, which is currently 1
+      "address": "TEZBiX2Xm7e12JwYURY1swo7YbaLSjbXzA", #Token address
+      "name": "Pucca", #Token name
+      "symbol": "Pucca", #Token symbol
+      "decimals": 18, #Token decimals
+      "logoURI": "" #Token logo uri
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
