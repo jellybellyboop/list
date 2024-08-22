@@ -1,15 +1,15 @@
 {
-  "name": "Pucca List", #List name
-  "logoURI": "", #List logo uri
-  "timestamp": 1610339529000, #Update time in millisecond
+  "name": "Pucca List",
+  "logoURI": "https://raw.githubusercontent.com/jellybellyboop/list/main/pucca.jpg",
+  "timestamp": 1610339529000,
   "tokens": [
     {
-      "chainId": 1, #ChainId, which is currently 1
-      "address": "TEZBiX2Xm7e12JwYURY1swo7YbaLSjbXzA", #Token address
-      "name": "Pucca", #Token name
-      "symbol": "Pucca", #Token symbol
-      "decimals": 18, #Token decimals
-      "logoURI": "" #Token logo uri
+      "chainId": 1,
+      "address": "TEZBiX2Xm7e12JwYURY1swo7YbaLSjbXzA",
+      "name": "Pucca",
+      "symbol": "Pucca",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jellybellyboop/list/main/pucca.jpg"
     }
   ],
   "version": {
