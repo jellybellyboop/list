@@ -1,7 +1,7 @@
 {
   "name": "Pucca List",
   "logoURI": "https://raw.githubusercontent.com/jellybellyboop/list/main/pucca.jpg",
-  "timestamp": 1724179766000,
+  "timestamp": 1724352780000,
   "tokens": [
     {
       "chainId": 1,
@@ -13,7 +13,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
